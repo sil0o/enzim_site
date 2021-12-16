@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Geomanist';
+    src: url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Thin.eot');
+    src: local('Geomanist Thin'), local('Geomanist-Thin'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Thin.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Thin.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Black.eot');
+    src: local('Geomanist Black'), local('Geomanist-Black'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Black.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Black.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Black.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Medium.eot');
+    src: local('Geomanist Medium'), local('Geomanist-Medium'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Medium.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Medium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Bold.eot');
+    src: local('Geomanist Bold'), local('Geomanist-Bold'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geomanist Book';
+    src: url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Book.eot');
+    src: local('Geomanist Book'), local('Geomanist-Book'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Book.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Book.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Book.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geomanist Ultra';
+    src: url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Ultra.eot');
+    src: local('Geomanist Ultra'), local('Geomanist-Ultra'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Ultra.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Ultra.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Ultra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Regular.eot');
+    src: local('Geomanist Regular'), local('Geomanist-Regular'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-ExtraLight.eot');
+    src: local('Geomanist ExtraLight'), local('Geomanist-ExtraLight'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-ExtraLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-ExtraLight.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Light.eot');
+    src: local('Geomanist Light'), local('Geomanist-Light'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Light.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/abdulrehman25/geomanist-font/Geomanist-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
